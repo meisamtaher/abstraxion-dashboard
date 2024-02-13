@@ -2,8 +2,8 @@
   "name": "@burnt-labs/xion.js",
   "private": true,
   "scripts": {
-    "build": "cd abstraxion_dashboard/apps/abstraxion_dashboard && npm run build",
-    "start": "cd abstraxion_dashboard/apps/abstraxion_dashboard && npm run start",
+    "build": "cd apps/abstraxion_dashboard && npm run build",
+    "start": "cd apps/abstraxion_dashboard && npm run start",
     "dev": "turbo dev",
     "lint": "turbo lint",
     "clean": "turbo clean",
