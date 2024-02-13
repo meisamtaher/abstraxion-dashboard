@@ -4,7 +4,7 @@ import { StytchHeadlessClient } from "@stytch/vanilla-js/dist/index.headless";
 
 // TODO: Temporarily hard-coded
 export const stytchClient: StytchHeadlessClient = createStytchHeadlessClient(
-  "public-token-live-87901ec3-ef19-48ca-b3f4-842be750181b",
+  "public-token-test-f3b8857e-c646-4b14-94f2-90a375f6f9c0",
 );
 
 // TODO: Refactor to be dynamic. Local dev uri must be device IP.
